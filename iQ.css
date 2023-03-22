@@ -1,0 +1,187 @@
+body{
+    margin: 0;
+}
+.header{
+    width: 100%;
+    height: 65px;
+    background: black;
+    display: flex;
+}
+.logo{
+    font-family: "AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+    padding: 4px;
+    margin-left: 20px;
+    margin: 0;
+    letter-spacing: 5px;
+    color: #fff;
+    
+
+}#logo{
+    margin: 5px;
+    margin-left: 40px;
+  
+}
+.ul1{
+
+
+    list-style: none;
+    display: flex;
+    color: #fff;
+    margin-left: 10px;
+    margin-left: 52px;
+    margin-top: 23px;
+    
+}
+.ul1 li{
+    margin-left: 20px;
+}
+.icon {
+    width: 27px;
+    height: 27px;
+    margin-left: 129px;
+    margin-top: 16px;
+}
+.image{
+   width: 100%;
+}
+.image-tap{
+    width: 298px;
+    height: 100%;
+}
+.box-1{
+    font-size: 18px;
+    line-height: 78px;
+    color: #000;
+    width: 99%;
+    margin-left: 168px;
+    margin-top: -103px;
+}
+#decration{
+    font-weight: 100;
+    font-family: "AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+}
+
+.box-m {
+    width: 15%;
+    padding: 41px;
+    padding-top: 10px;
+}
+#dec-1{
+    font-weight: 100;
+    margin-top: -51px;
+    font-family: "AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+}#dec-2{
+    font-weight: 100;
+    font-family: "AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+    margin-top: -51px;
+}
+#dec-3{
+    font-weight: 100;
+    font-family: "AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+    margin-top: -51px;
+}
+#dec-4{
+    font-weight: 100;
+    font-family: "AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+    margin-top: -51px;
+}
+.box-2{
+    font-size: 18px;
+    line-height: 78px;
+    color: #000;
+    width: 99%;
+    margin-left: 411px;
+    margin-top: -270px;
+}#dec-5{
+    margin-top: -51px;
+    font-weight: 100;
+    font-family: "AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+}
+#dec-6{
+    font-weight: 100;
+    margin-top: -54px;
+    font-family: "AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+}
+.box-3{
+    text-align: end;
+    width: 1016px;
+    margin-top: -154px;
+}
+#dec-7{
+    width: 21px;
+    margin-top: 12px;
+    margin-right: 118px;
+}
+ #dec-8{
+    margin-top: -21px;
+    margin-right: -52px;
+    font-weight: 100;
+    font-family: "AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+}
+ #dec-9{
+    width: 21px;
+    margin-right: 115px;
+    margin-top: 3px;
+ }
+#dec-10{
+    margin-top: -24px;
+    margin-right: 36px;
+    font-family: "AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+}
+#dec-11{
+    margin-right: 62px;
+    margin-top: 38px;
+    font-family: "AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+}
+#dec-12{
+    width: 36px;
+    margin-top: 56px;
+    margin-right: 46px;
+    border-radius: 20px;
+}
+#dec-13{
+    width: 36px;
+    margin-left: -43px;
+    border-radius: 46px;
+}
+#dec-14{
+    width: 36px;
+    border-radius: 63px;
+    margin-left: 1px;
+}
+#dec-15{
+    width: 36px;
+    border-radius: 23px;
+}
+.footer{
+    width: 100%;
+    height: 85px;
+    border-top: 1px solid #999;
+}
+.un-list{
+    list-style: none;
+    display: flex;
+    color: #999;
+    margin-left: -7px;
+    margin-top: 8px;
+    font-family: "AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+}
+.un-list li{
+    margin-left: 15px;
+    font-weight: 100;
+    margin-top: 16px;
+}
+#dec-16{
+    margin-left: 356px;
+}
+.last{
+    width: 100%;
+    height: 70px;
+    background:#000;
+}
+.compleat{
+    text-align: center;
+    padding-top: 25px;
+    color: #999;
+    
+}
